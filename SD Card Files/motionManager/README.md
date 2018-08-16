@@ -2,6 +2,7 @@
 #### SD card provides configuration parameters to MotionManager.
 #### MotionManager only reads SD card on boot, during logo reveal.
 #### MotionManager should be turned off and on, if any changes are done on the SD card.
+#### SD card folder hierarchy should be "SDcard:\motionManager\configFile.csv"
 #### If no SD card is provided or there is a missing .csv file, MotionManager uses its build in default parameters.
 #### All parameters are in floating points and the syntax is "10.0,20.0,30.0", with commas between parameters and without any spaces.
 
