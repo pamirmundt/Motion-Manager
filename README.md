@@ -1,4 +1,4 @@
-# MotionManager (v1.0.0)
+# Motion Manager (v1.0.0)
 Controller for HNP Mikrosysteme micro annular gear pump MZR-7223
 - 100 Hz PI RPM control with a RPM MAP filter
 - 5 Hz screen refresh
